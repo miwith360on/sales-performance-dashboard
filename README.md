@@ -34,7 +34,8 @@ This project is an interactive Excel dashboard designed to visualize and analyze
 
 ## 📷 Screenshot
 
-(Add your screenshot here in GitHub)
+![project 1](https://github.com/user-attachments/assets/87a50ee1-b795-4cb6-8aba-6a4afee227be)
+
 
 ## 💬 Feedback
 
